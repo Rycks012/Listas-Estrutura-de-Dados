@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main(void) {
+  printf("Momento, eu preciso fazer uns ajustes\n");
+  return 0;
+}
