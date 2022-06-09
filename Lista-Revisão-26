@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main(void) {
+  printf("Hummm, bolo de mulangooo\n");
+  return 0;
+}
